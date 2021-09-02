@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gowtham-369
-- 👀 I’m interested in DataScience,MachineLearning,DeepLearning
-- 🌱 I’m currently learning Oracle SQL
-- 💞️ I’m looking to collaborate on SQL/Database related Projects
+- 👀 I’m interested in DataScience,MachineLearning,DeepLearning,IOT, Web Development
+- 💞️ I’m looking to collaborate on Machine Learning, Computer Vision, SQL/Database related Projects
 - 📫 Drop a mail to gowthamreddyuppunuri@gmail.com
 
 <!---
