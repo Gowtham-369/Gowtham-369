@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gowtham-369
-- 👀 I’m interested in DataScience,MachineLearning,DeepLearning,IOT, Web Development
+- 👀 I’m interested in OpenSource. Dabble in Web Development, Data Science and Analysis, MachineLearning, DeepLearning, IOT and Blockchain
 - 💞️ I’m looking to collaborate on Machine Learning, Computer Vision, SQL/Database related Projects
 - 📫 Drop a mail to gowthamreddyuppunuri@gmail.com
 
